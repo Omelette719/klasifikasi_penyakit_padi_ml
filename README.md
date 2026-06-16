@@ -79,7 +79,7 @@ klasifikasi-penyakit-padi-ml/
 
 >  **Model terbaik: CNN + SVM** dengan accuracy **91.36%**
 
-### Hasil per Kelas — CNN + SVM (Model Terbaik)
+### Hasil per Kelas - CNN + SVM (Model Terbaik)
 
 | Kelas | Precision | Recall | F1-Score | Support |
 |-------|:---------:|:------:|:--------:|:-------:|
@@ -133,10 +133,10 @@ Runtime → Run all
 ```
 
 >  **Estimasi waktu total:** ~60–90 menit (tergantung ketersediaan GPU Colab)
-> - SVM & SVM+HOG: ~5–10 menit
-> - MobileNetV2: ~15–20 menit
-> - ResNet-50: ~25–35 menit
-> - CNN+SVM: ~20–25 menit
+> - SVM & SVM+HOG: ~5-10 menit
+> - MobileNetV2: ~15-20 menit
+> - ResNet-50: ~25-35 menit
+> - CNN+SVM: ~20-25 menit
 
 ---
 
