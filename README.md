@@ -24,7 +24,7 @@ Dataset dikumpulkan secara **mandiri dari lahan sawah Kalimantan Selatan** sebag
 ```
 klasifikasi-penyakit-padi-ml/
 │
-├── Klasifikasi_Penyakit_Padi_AzwinHakim.ipynb   # Notebook utama (semua model)
+├── Klasifikasi_Penyakit_Padi.ipynb   # Notebook utama (semua model)
 ├── README.md                                      # File ini
 │
 ├── hasil/                                         # Output visualisasi
@@ -125,7 +125,6 @@ MyDrive/
 **5. Sesuaikan path di cell konfigurasi (cell ke-2)**
 ```python
 DATASET_DIR = '/content/drive/MyDrive/dataset_penyakit_daun_padi'
-OUTPUT_DIR  = '/content/drive/MyDrive/output_padi'
 ```
 
 **6. Jalankan semua cell secara berurutan**
